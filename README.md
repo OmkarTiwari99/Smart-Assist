@@ -8,7 +8,8 @@
 ## 🚀 TL;DR
 Smart-Assist (a.k.a. *ELI5 Tutor*) is a lightweight single-page app that accepts an image of textbook content (upload / drag-drop / paste), sends the image to an AI model, and returns a structured, student-friendly explanation: **The Big Idea**, **The Simple Breakdown**, and a **Check Question**. It also supports read-aloud and stores lesson history in the browser for quick review.
 
-Live Link =   smart-assist-gamma.vercel.app
+Live Link =   [smart-assist-gamma.vercel.app](https://smart-assist-gamma.vercel.app/)
+
 ---
 
 ## 🎯 Key features
