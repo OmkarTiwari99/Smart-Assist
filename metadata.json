@@ -1,0 +1,5 @@
+{
+  "name": "ELI5 Tutor",
+  "description": "An AI tutor that simplifies complex academic concepts from your textbook photos into easy-to-understand explanations.",
+  "requestFramePermissions": []
+}
